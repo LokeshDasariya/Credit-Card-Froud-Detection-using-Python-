@@ -1,4 +1,4 @@
-Hi there, it's Lokesh 👋 (Lokesh Hpusalal Dasariya)
+Hi there, it's Lokesh 👋 (Lokesh Housalal Dasariya)
 
 Aspiring Data Analyst | Power BI | MySQL | Python | Advanced Excel
 
